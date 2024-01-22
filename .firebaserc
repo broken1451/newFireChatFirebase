@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fire-chat-angular-legacy": {
+      "hosting": {
+        "firechat": [
+          "fire-chat-angular-legacy"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fire-chat-angular-legacy"
+  }
+}
